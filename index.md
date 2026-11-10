@@ -38,4 +38,4 @@ You can edit or delete any item or bin inside the app. Uninstalling the app remo
 If this policy changes, we will update the date at the top.
 
 ## Contact
-Questions about this policy: [your email]
+Questions about this policy: [manroop5@yahoo.com]
