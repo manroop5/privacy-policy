@@ -1,10 +1,8 @@
 # BinFinder Privacy Policy
 
-**Last updated:** [date]
-**Developer:** [your name or company]
-**Contact:** [your email]
-
-This is a draft. Have it reviewed, and check it against how the final app behaves, before you publish it.
+**Last updated:** [11/9/2026]
+**Developer:** [j2me
+**Contact:** [manroop5@yahoo.com]
 
 ## The short version
 BinFinder keeps your lists and photos on your phone. It has no account system, no ads, and no servers of its own. We do not collect, sell or share your personal information.
