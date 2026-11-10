@@ -1,7 +1,7 @@
 # BinFinder Privacy Policy
 
 **Last updated:** [11/9/2026]
-**Developer:** [j2me
+**Developer:** [j2me]
 **Contact:** [manroop5@yahoo.com]
 
 ## The short version
